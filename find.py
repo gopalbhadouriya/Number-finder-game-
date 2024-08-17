@@ -1,4 +1,4 @@
-
+# we used random module to choose diffrent numbers under 100
 import random
 
 list = ['"rustam"','"anshu"','"mr.gopal"','"mrs.mohini"','"school"','"student"' ]
